@@ -1,0 +1,11 @@
+# PyPI/git artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Local state
+.env
+*.bak*

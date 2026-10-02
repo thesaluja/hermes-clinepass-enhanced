@@ -1,0 +1,5 @@
+name: clinepass
+kind: model-provider
+version: 1.3.0
+description: ClinePass curated open-weight coding models (OpenAI-compatible API) with live plan-catalog discovery
+author: Gaurav Saluja (thesaluja) & Adolanium
